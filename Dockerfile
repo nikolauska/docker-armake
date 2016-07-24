@@ -4,4 +4,4 @@ RUN apt-get -y update && \
     apt-get -y install software-properties-common && \
     add-apt-repository ppa:koffeinflummi/armake && \
     apt-get -y update && \
-    apt-get -y install armake
+    apt-get -y install armake make
